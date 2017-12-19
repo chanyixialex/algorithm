@@ -7,5 +7,6 @@ package lookup;
 public class AStar {
     public static void main(String[] args) {
         System.out.println("fsfs");
+        System.out.println();
     }
 }
